@@ -1,6 +1,5 @@
 import java.util.*;
-
-//import java.io.File;
+import java.io.File;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.firefox.FirefoxProfile;
 import org.openqa.selenium.firefox.FirefoxBinary;
